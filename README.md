@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/1iigor/ClipMaker?style=for-the-badge" alt="GitHub repo size">
-  <img src="https://img.shields.io/github/last-commit/1iigor/ClipMaker?style=for-the-badge" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/repo-size/1iigor/NLW?style=for-the-badge" alt="GitHub repo size">
+  <img src="https://img.shields.io/github/last-commit/1iigor/NLW?style=for-the-badge" alt="GitHub last commit">
 </p>
 
 > **ClipMaker** é uma ferramenta inteligente que utiliza IA para analisar vídeos, realizar transcrições automáticas e identificar os momentos com maior potencial de viralização.
